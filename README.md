@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kathypach02
+- 👋 Hi, I’m Kathleen Pacheco
 - 👀 I’m interested in becoming a front end developer
 - 🌱 I’m currently learning JavaScript
 
